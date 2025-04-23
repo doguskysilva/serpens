@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.12"
 pytest = "^8.3.5"
 pendulum = "^3.0.0"
+numpy = "^2.2.4"
 
 [tool.poetry.scripts]
 serpens = "src.serpens.main:main"
